@@ -1,0 +1,50 @@
+cabal: Entering directory '/var/folders/tp/3m3wk2812_g575jsdjmfbpmw0000gn/T/cabal-tmp-28987/gloss-rendering-1.10.3.3'
+Configuring gloss-rendering-1.10.3.3...
+Building gloss-rendering-1.10.3.3...
+Preprocessing library gloss-rendering-1.10.3.3...
+[1 of 9] Compiling Graphics.Gloss.Internals.Rendering.Bitmap ( Graphics/Gloss/Internals/Rendering/Bitmap.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Bitmap.o )
+[2 of 9] Compiling Graphics.Gloss.Internals.Data.Color ( Graphics/Gloss/Internals/Data/Color.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Data/Color.o )
+[3 of 9] Compiling Graphics.Gloss.Internals.Rendering.Color ( Graphics/Gloss/Internals/Rendering/Color.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Color.o )
+[4 of 9] Compiling Graphics.Gloss.Internals.Data.Picture ( Graphics/Gloss/Internals/Data/Picture.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Data/Picture.o )
+[5 of 9] Compiling Graphics.Gloss.Internals.Rendering.State ( Graphics/Gloss/Internals/Rendering/State.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/State.o )
+[6 of 9] Compiling Graphics.Gloss.Internals.Rendering.Common ( Graphics/Gloss/Internals/Rendering/Common.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Common.o )
+[7 of 9] Compiling Graphics.Gloss.Internals.Rendering.Circle ( Graphics/Gloss/Internals/Rendering/Circle.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Circle.o )
+[8 of 9] Compiling Graphics.Gloss.Internals.Rendering.Picture ( Graphics/Gloss/Internals/Rendering/Picture.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Picture.o )
+[9 of 9] Compiling Graphics.Gloss.Rendering ( Graphics/Gloss/Rendering.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Rendering.o )
+[1 of 9] Compiling Graphics.Gloss.Internals.Rendering.Bitmap ( Graphics/Gloss/Internals/Rendering/Bitmap.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Bitmap.p_o )
+[2 of 9] Compiling Graphics.Gloss.Internals.Data.Color ( Graphics/Gloss/Internals/Data/Color.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Data/Color.p_o )
+[3 of 9] Compiling Graphics.Gloss.Internals.Rendering.Color ( Graphics/Gloss/Internals/Rendering/Color.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Color.p_o )
+[4 of 9] Compiling Graphics.Gloss.Internals.Data.Picture ( Graphics/Gloss/Internals/Data/Picture.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Data/Picture.p_o )
+[5 of 9] Compiling Graphics.Gloss.Internals.Rendering.State ( Graphics/Gloss/Internals/Rendering/State.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/State.p_o )
+[6 of 9] Compiling Graphics.Gloss.Internals.Rendering.Common ( Graphics/Gloss/Internals/Rendering/Common.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Common.p_o )
+[7 of 9] Compiling Graphics.Gloss.Internals.Rendering.Circle ( Graphics/Gloss/Internals/Rendering/Circle.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Circle.p_o )
+[8 of 9] Compiling Graphics.Gloss.Internals.Rendering.Picture ( Graphics/Gloss/Internals/Rendering/Picture.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Internals/Rendering/Picture.p_o )
+[9 of 9] Compiling Graphics.Gloss.Rendering ( Graphics/Gloss/Rendering.hs, dist/dist-sandbox-270f0bd/build/Graphics/Gloss/Rendering.p_o )
+Running Haddock for gloss-rendering-1.10.3.3...
+Preprocessing library gloss-rendering-1.10.3.3...
+Haddock coverage:
+ 100% (  7 /  7) in 'Graphics.Gloss.Internals.Rendering.Bitmap'
+ 100% (  8 /  8) in 'Graphics.Gloss.Internals.Data.Color'
+  50% (  1 /  2) in 'Graphics.Gloss.Internals.Rendering.Color'
+  Missing documentation for:
+    Module header
+ 100% ( 14 / 14) in 'Graphics.Gloss.Internals.Data.Picture'
+ 100% (  4 /  4) in 'Graphics.Gloss.Internals.Rendering.State'
+  80% (  4 /  5) in 'Graphics.Gloss.Internals.Rendering.Common'
+  Missing documentation for:
+    Module header
+ 100% (  3 /  3) in 'Graphics.Gloss.Internals.Rendering.Circle'
+  50% (  1 /  2) in 'Graphics.Gloss.Internals.Rendering.Picture'
+  Missing documentation for:
+    Module header
+  97% ( 29 / 30) in 'Graphics.Gloss.Rendering'
+  Missing documentation for:
+    Module header
+Documentation created:
+dist/dist-sandbox-270f0bd/doc/html/gloss-rendering/index.html
+Creating package registration file:
+/var/folders/tp/3m3wk2812_g575jsdjmfbpmw0000gn/T/pkgConf-gloss-rendering-1.10.38965443031474833169.3
+Installing library in
+/Users/zhiyan/Projects/complex-sets/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.1/gloss-rendering-1.10.3.3-IElPgXxYo7zCsKre25n2Ym
+Registering gloss-rendering-1.10.3.3...
+cabal: Leaving directory '/var/folders/tp/3m3wk2812_g575jsdjmfbpmw0000gn/T/cabal-tmp-28987/gloss-rendering-1.10.3.3'
